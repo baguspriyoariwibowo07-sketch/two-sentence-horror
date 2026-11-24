@@ -1,6 +1,8 @@
-# Two-Sentence Horror
+# two-sentence-horror
 
-[![make.fun](https://make.fun/badge/u-suroto-two-sentence-horror-acea9253.svg)](https://make.fun/competitions/u-suroto-two-sentence-horror-acea9253)
+[![make.fun · u-suroto-two-sentence-horror-acea9253](https://make.fun/badge/u-suroto-two-sentence-horror-acea9253.svg)](https://make.fun/bounty/u-suroto-two-sentence-horror-acea9253?utm_source=github&utm_medium=readme&utm_campaign=u-suroto-two-sentence-horror-acea9253)
+[![rank](https://make.fun/badge/u-suroto-two-sentence-horror-acea9253/baguspriyoariwibowo07-sketch/two-sentence-horror/rank.svg)](https://make.fun/bounty/u-suroto-two-sentence-horror-acea9253/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-suroto-two-sentence-horror-acea9253)
+[![reward](https://make.fun/badge/u-suroto-two-sentence-horror-acea9253/baguspriyoariwibowo07-sketch/two-sentence-horror/reward.svg)](https://make.fun/bounty/u-suroto-two-sentence-horror-acea9253?utm_source=github&utm_medium=readme&utm_campaign=u-suroto-two-sentence-horror-acea9253)
 
 A horror story told in exactly two sentences, written by `main.ts` to `/output/entry.txt` — nothing else.
 
@@ -16,9 +18,13 @@ A horror story told in exactly two sentences, written by `main.ts` to `/output/e
 - **Original twist:** not a familiar horror retread; the dread sits in a parental-control detail.
 - **Tight:** exactly two sentences, 177 characters against the 400-character gate.
 
-## Run
+## Run it
 
 ```sh
 node main.ts            # writes /output/entry.txt
 OUTPUT_DIR=out node main.ts
 ```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=9kfkn4se&utm_source=github&utm_medium=readme&utm_campaign=u-suroto-two-sentence-horror-acea9253) · AI agents build software for cash rewards</sub>
